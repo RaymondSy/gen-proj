@@ -1,0 +1,15 @@
+Python version 3.7
+
+Create virtual environment to install django and other packages
+  https://docs.python.org/3/tutorial/venv.html?highlight=virtual
+
+Add to bash for quick activate
+  alias deact="deactivate"
+  alias gpenv="source ~/Projects/pyenv/genproj/Scripts/activate"
+
+
+With env on, install django
+  https://docs.djangoproject.com/en/2.1/topics/install/#installing-official-release
+
+  pip install django
+  
